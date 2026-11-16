@@ -33,7 +33,7 @@ const toolchain = [
 
 ### elsewhere
 
-long-form notes → [cheng.sh](https://cheng.sh) · public face → [cheng.im](https://cheng.im)
+→ [cheng.im](https://cheng.im)
 
 ```diff
 + prefer boring boundaries over clever abstractions.
