@@ -8,8 +8,7 @@ $ uptime
  recent focus: coding agents, LLM/MCP gateways, proactive harnesses
 
 $ cat ~/links
- https://cheng.im   portfolio
- https://cheng.sh   the new old thing (blog)
+ https://cheng.im
 ```
 
 ### currently shipping
