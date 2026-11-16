@@ -24,16 +24,14 @@ also in the open: auth & agent-runtime work on **[Octop](https://github.com/Tenc
 
 ### toolchain (the short list)
 
-```ts
-const toolchain = [
-  "Rust", "Erlang/OTP", "TypeScript", "Python",
-  "React", "Qt6", "MCP", "OpenTelemetry", "Kubernetes",
-] as const;
+```erlang
+-module(toolchain).
+-export([stack/0]).
+
+stack() ->
+    [rust, 'Erlang/OTP', typescript, python,
+     react, qt6, mcp, opentelemetry, kubernetes].
 ```
-
-### elsewhere
-
-→ [cheng.im](https://cheng.im)
 
 ```diff
 + prefer boring boundaries over clever abstractions.
