@@ -28,5 +28,6 @@ Platform        Docker · Kubernetes · OpenTelemetry · OAuth / JWT
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=huangcheng&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huangcheng&theme=transparent&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=huangcheng&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=huangcheng&theme=city_light&hide_border=false)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huangcheng&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
