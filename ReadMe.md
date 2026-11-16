@@ -1,4 +1,4 @@
-```text
+```console
 huangcheng@github:~$ whoami
 HUANG Cheng — full-stack engineer
               AI developer platforms · agent infrastructure
@@ -25,13 +25,18 @@ also in the open: auth & agent-runtime work on **[Octop](https://github.com/Tenc
 
 ### toolchain (the short list)
 
-`Rust` · `Erlang/OTP` · `TypeScript` · `Python` · `React` · `Qt6` · `MCP` · `OpenTelemetry` · `Kubernetes`
+```ts
+const toolchain = [
+  "Rust", "Erlang/OTP", "TypeScript", "Python",
+  "React", "Qt6", "MCP", "OpenTelemetry", "Kubernetes",
+] as const;
+```
 
 ### elsewhere
 
 long-form notes → [cheng.sh](https://cheng.sh) · public face → [cheng.im](https://cheng.im)
 
-```text
-prefer boring boundaries over clever abstractions.
-interrupt on the user's schedule, not the event's.
+```diff
++ prefer boring boundaries over clever abstractions.
++ interrupt on the user's schedule, not the event's.
 ```
